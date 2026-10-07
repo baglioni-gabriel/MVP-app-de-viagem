@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424658031568",
+    "project_id": "wayv-115a9",
+    "storage_bucket": "wayv-115a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424658031568:android:fc88b1230b463d3485dfd5",
+        "android_client_info": {
+          "package_name": "com.travelsocial.travel_social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOO3rkZFFKTigatH5InRZq4RkUbycf9R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
